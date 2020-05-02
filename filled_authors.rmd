@@ -1,0 +1,212 @@
+---
+title: More than just smell - COVID-19 is associated with severe impairment of smell, taste, and chemesthesis
+author:
+  Valentina Parma$^{1}$, \and 
+  Kathrin Ohla$^{2}$, \and 
+  Masha Y Niv$^{3}$, \and 
+  Maria G. Veldhuizen$^{4}$, \and 
+  Steven D. Munger$^{5}$, \and 
+  Danielle R Reed$^{6}$, \and 
+  Marta Y. Pepino$^{7}$, \and 
+  Alyssa J. Bakke$^{8}$, \and 
+  Evelyn V Brindha$^{9}$, \and 
+  Mohammed K.Alwashahi$^{10}$, \and 
+  Michele Dibattista$^{11}$, \and 
+  Thomas Hummel$^{12}$, \and 
+  Shannon B Olsson$^{13}$, \and 
+  Antonella Di Pizio$^{14}$, \and 
+  KL Whitcroft$^{15}$, \and 
+  Sajidxa Mariño$^{16}$, \and 
+  Alexander W. Fjaeldstad$^{17}$, \and 
+  Carl M Philpott$^{18}$, \and 
+  Masako Okamoto$^{19}$, \and 
+  Keiland W. Cooper$^{20}$, \and 
+  Ritesh Kumar$^{21}$, \and 
+  Mehmet Hakan Ozdener$^{6}$, \and 
+  Alberto Macchi$^{22}$, \and 
+  Rishemjit Kaur$^{23}$, \and 
+  Mari Sandell$^{24}$, \and 
+  Liang-Dar Hwang$^{25}$, \and 
+  Eugeni Roura$^{25}$, \and 
+  Christine E Kelly$^{26}$, \and 
+  Thomas Heinbockel$^{27}$, \and 
+  Marco Tullio Liuzza$^{28}$, \and 
+  Michael C. Farruggia$^{29}$, \and 
+  Moustafa Bensafi$^{30}$, \and 
+  Thierry Thomas-Danguin$^{31}$, \and 
+  Sanne Boesveldt$^{32}$, \and 
+  Luis R. Saraiva$^{33}$, \and 
+  Jérôme Golebiowski$^{34}$, \and 
+  Alexia Nunez-Parra$^{35}$, \and 
+  Barry C. Smith$^{36}$, \and 
+  Johan N. Lundström$^{37}$, \and 
+  Vonnie D.C. Shields$^{38}$, \and 
+  Jonas K. Olofsson$^{39}$, \and 
+  Anna D’Errico$^{40}$, \and 
+  Caroline Huart$^{41}$, \and 
+  Ilja Croijmans$^{42}$, \and 
+  Surabhi Bhutani$^{43}$, \and 
+  Iordanis Konstantinidis$^{44}$, \and 
+  Richard C Gerkin$^{45}$, \and 
+  Denis Pierron$^{46}$, \and 
+  Veronica Pereda-Loth$^{46}$, \and 
+  Lauren R Colquitt$^{6}$, \and 
+  Nicola Pirastu$^{47}$, \and 
+  Robert Pellegrino$^{48}$, \and 
+  Shima T. Moein$^{49}$, \and 
+  Antje Welge-Lüssen$^{50}$, \and 
+  Veronika Schöpf$^{51}$, \and 
+  Lenka Martinec Nováková$^{52}$, \and 
+  Johannes Frasnelli$^{53}$, \and 
+  Özlem Saatci$^{54}$, \and 
+  Jitka Trebická Fialová$^{55}$, \and 
+  Zara M. Patel$^{29}$, \and 
+  Sébastien Fiorucci$^{34}$, \and 
+  Maryam Jalessi$^{56}$, \and 
+  Noam Karni$^{57}$, \and 
+  pablo meyer$^{58}$, \and 
+  Graciela M. Soler$^{59}$, \and 
+  Jessica Freiherr$^{60}$, \and 
+  Anna Menini$^{61}$, \and 
+  Maria Dolors Guàrdia$^{62}$, \and 
+  Marina Ritchie$^{20}$, \and 
+  Jan Havlícek$^{55}$, \and 
+  Juyun Lim$^{45}$, \and 
+  Camille Ferdenzi$^{30}$, \and 
+  Aytug Altundag$^{63}$, \and 
+  Patricia Portillo Mazal$^{64}$, \and 
+  Jane K. Parker$^{65}$, \and 
+  Farhoud Faraji$^{66}$, \and 
+  William E.A. Fredborg$^{39}$, \and 
+  Gabriella Morini$^{67}$, \and 
+  Rafieh Alizadeh$^{68}$, \and 
+  Ben Chen$^{69}$, \and 
+  Hüseyin Yanik$^{4}$, \and 
+  Federica Genovese$^{6}$, \and 
+  Lina Öztürk$^{4}$, \and 
+  Cailu Lin$^{6}$, \and 
+  Christophe Laudamiel$^{70}$, \and 
+  Samet Albayrak$^{71}$, \and 
+  Marta Navarro$^{25}$, \and 
+  Cédric Bouysset$^{34}$, \and 
+  Carla Mucignat$^{72}$, \and 
+  M. van den Brink$^{73}$, \and 
+  Michael Schmuker$^{21}$, \and 
+  Florian Ph.S Fischmeister$^{74}$, \and 
+  Eitan Margulis$^{3}$, \and 
+  Jasper H. B. de Groot$^{42}$, \and 
+  Hadar Klein$^{3}$, \and 
+  Olagunju Abdulrahman$^{75}$, \and 
+  Pamela Dalton$^{6}$, \and 
+  Carol H. Yan$^{66}$, \and 
+  Vera V. Voznessenskaya$^{76}$, \and 
+  Nur Yoluk$^{4}$, \and 
+  Sara Razzaghi Asl$^{77}$, \and 
+  Jingguo Chen$^{78}$, \and 
+  Elizabeth A. Sell$^{79}$, \and 
+  Jeb M. Justice$^{5}$, \and 
+  Julie Walsh-Messinger$^{80}$, \and 
+  Nicholas S. Archer$^{81}$, \and 
+  Sachiko Koyama$^{82}$, \and 
+  Vincent Deary$^{83}$, \and 
+  S. Craig Roberts$^{84}$, \and 
+  Coralie Mignot$^{85}$, \and 
+  Pavan K. Kaushik$^{13}$, \and 
+  Bettina Malnic$^{86}$, \and 
+  Hong Wang$^{6}$, \and 
+  Jae-Hee Hong$^{87}$, \and 
+  Shima Seyed-Allaei$^{49}$, \and 
+  Dejan Georgiev$^{88}$, \and 
+  John E. Hayes$^{8}$
+date:
+  $^{1}$Temple University, 
+  $^{2}$Research Center Jülich, 
+  $^{3}$The Hebrew University of Jerusalem, Israel, 
+  $^{4}$Mersin University, 
+  $^{5}$University of Florida, 
+  $^{6}$Monell Chemical Senses Center, 
+  $^{7}$University of Illinois at Urbana Champaign, 
+  $^{8}$The Pennsylvania State University, 
+  $^{9}$Karunya University, 
+  $^{10}$Sultan Qaboos University, 
+  $^{11}$Università degli Studi di Bari A. Moro, 
+  $^{12}$TU Dresden, 
+  $^{13}$Tata Institute of Fundamental Research, 
+  $^{14}$Leibniz-Institute for Food Systems Biology at the Technical University of Munich, 
+  $^{15}$UCL, 
+  $^{16}$Centro de Otorrinolaringología Respira Libre, 
+  $^{17}$Aarhus University, 
+  $^{18}$University of East Anglia, 
+  $^{19}$The University of Tokyo, 
+  $^{20}$University of California Irvine, 
+  $^{21}$University of Hertfordshire, 
+  $^{22}$Italian Academy Of Rhinology - assi sette laghi Varese, 
+  $^{23}$CSIR-Central Scientific Instruments Organisation, 
+  $^{24}$University of Helsinki, University of Turku, 
+  $^{25}$The University of Queensland, 
+  $^{26}$AbScent, 
+  $^{27}$Howard University College of Medicine, 
+  $^{28}$"Magna Graecia" University of Catanzaro, 
+  $^{29}$Yale University School of Medicine, 
+  $^{30}$Lyon Neuroscience Research Center, CNRS UMR5292 - INSERM U1028 - University Lyon 1, 
+  $^{31}$INRAE, 
+  $^{32}$Wageningen University, 
+  $^{33}$Sidra Medicine, 
+  $^{34}$Université Côte d'Azur, 
+  $^{35}$Universidad de Chile, 
+  $^{36}$University of London, 
+  $^{37}$Karolinska Institutet, 
+  $^{38}$Towson University, 
+  $^{39}$Stockholm University, 
+  $^{40}$Goethe Universität Frankfurt, 
+  $^{41}$Cliniques universitaires Saint-Luc, Brussels, Belgium, 
+  $^{42}$Utrecht University, 
+  $^{43}$San Diego State University, 
+  $^{44}$Aristotle University, 
+  $^{45}$Arizona State University, 
+  $^{46}$Université de Toulouse-CNRS, 
+  $^{47}$The University of Edinburgh, 
+  $^{48}$University of Tennessee, 
+  $^{49}$Institute for Research in Fundamental Sciences, 
+  $^{50}$University Hospital Basel, Basel, 
+  $^{51}$Medical University of Vienna, 
+  $^{52}$Charles University, Faculty of Humanities, 
+  $^{53}$Université du Québec à Trois-Rivières, 
+  $^{54}$Medical Science University, 
+  $^{55}$Charles University, 
+  $^{56}$The Five Senses Institute, Iran University of Medical Sciences, 
+  $^{57}$Hadassah Medical Center, 
+  $^{58}$IBM T.J. Watson Research Center, 
+  $^{59}$Buenos Aires University and GEOG (Grupo de Estudio de Olfato y Gusto), 
+  $^{60}$FAU Erlangen, 
+  $^{61}$SISSA, International School for Advanced Studies, 
+  $^{62}$IRTA, 
+  $^{63}$Biruni University, 
+  $^{64}$Hospital Italiano de Buenos Aires, 
+  $^{65}$University of Reading, 
+  $^{66}$University of California San Diego Health, 
+  $^{67}$University of Gastronomic Sciences, 
+  $^{68}$Iran University of Medical Sciences, 
+  $^{69}$Guangzhou Medical University, 
+  $^{70}$DreamAir Llc, 
+  $^{71}$Middle East Technical University, 
+  $^{72}$University of Padova, 
+  $^{73}$Maastricht University campus Venlo, 
+  $^{74}$University of Graz, 
+  $^{75}$The Federal University of Technology, Akure, Nigeria., 
+  $^{76}$Severtsov Institute of Ecology and Evolution RAS, 
+  $^{77}$Bilkent University, 
+  $^{78}$Second Affiliated Hospital of Xi'an Jiaotong University, 
+  $^{79}$University of Pennsylvania, 
+  $^{80}$University of Dayton, 
+  $^{81}$The Commonwealth Scientific and Industrial Research Organisation (CSIRO), 
+  $^{82}$Indiana University, 
+  $^{83}$Northumbria University Newcastle, 
+  $^{84}$University of Stirling, 
+  $^{85}$Smell and Taste Center, Dresden, 
+  $^{86}$University of São Paulo, Brazil, 
+  $^{87}$Seoul National University, 
+  $^{88}$University Medical Centre Ljubljana
+output:
+  pdf_document: default
+---
