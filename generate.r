@@ -21,7 +21,7 @@ string_to_number <- function( name_map, name )
       # Return the number of this name if it is similar enough to "normalized_name".
 
       name_similarity <- stringdist::stringsim( name_map[ row, "normalized_name" ], normalized_name )
-      min_similarity <- 0.8
+      min_similarity <- 0.85
 
       if( name_similarity > min_similarity )
         {
